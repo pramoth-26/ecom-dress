@@ -1,0 +1,50 @@
+[
+  {
+    "id": "user-1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "+91 9876543210",
+    "addressLine1": "123 Main Street",
+    "addressLine2": "Apt 101",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400001",
+    "password": "password123"
+  },
+  {
+    "id": "user-2",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "phone": "+91 9876543211",
+    "addressLine1": "456 Oak Avenue",
+    "addressLine2": "Suite 200",
+    "district": "Bangalore",
+    "state": "Karnataka",
+    "pincode": "560001",
+    "password": "password456"
+  },
+  {
+    "id": "user-1761839964975",
+    "name": "pramo",
+    "email": "varun@gmail.com",
+    "phone": "8220543596",
+    "addressLine1": "nil",
+    "addressLine2": "nil",
+    "district": "ramnad",
+    "state": "Tamil Nadu",
+    "pincode": "251355",
+    "password": "varun123"
+  },
+  {
+    "id": "user-1762149903158",
+    "name": "pramoth",
+    "email": "ksamsbnp1@gmail.com",
+    "phone": "8220543596",
+    "addressLine1": "5/964 poomalaivalasai",
+    "addressLine2": "uchippuli",
+    "district": "ramnad",
+    "state": "Tamil Nadu",
+    "pincode": "251355",
+    "password": "nive1234"
+  }
+]

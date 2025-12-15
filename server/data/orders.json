@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ORD-001",
+    "userId": "user-1",
+    "customerName": "John Doe",
+    "customerEmail": "john@example.com",
+    "date": "2024-01-15",
+    "status": "delivered",
+    "items": 2,
+    "total": 199.98,
+    "estimatedDelivery": "2024-01-22"
+  },
+  {
+    "id": "ORD-002",
+    "userId": "user-2",
+    "customerName": "Jane Smith",
+    "customerEmail": "jane@example.com",
+    "date": "2024-01-18",
+    "status": "shipped",
+    "items": 1,
+    "total": 89.99,
+    "estimatedDelivery": "2024-01-25"
+  },
+  {
+    "id": "ORD-003",
+    "userId": "user-1",
+    "customerName": "John Doe",
+    "customerEmail": "john@example.com",
+    "date": "2024-01-20",
+    "status": "processing",
+    "items": 3,
+    "total": 349.97,
+    "estimatedDelivery": "2024-01-28"
+  },
+  {
+    "id": "ORD-004",
+    "userId": "user-2",
+    "customerName": "Jane Smith",
+    "customerEmail": "jane@example.com",
+    "date": "2024-01-21",
+    "status": "pending",
+    "items": 1,
+    "total": 59.99,
+    "estimatedDelivery": "2024-01-29"
+  },
+  {
+    "id": "ORD-005",
+    "userId": "user-1761839964975",
+    "customerName": "pramo",
+    "customerEmail": "varun@gmail.com",
+    "date": "2025-11-01",
+    "status": "delivered",
+    "items": 2,
+    "total": 504.96700000000004,
+    "estimatedDelivery": "2025-11-07"
+  },
+  {
+    "id": "ORD-006",
+    "userId": "user-1761839964975",
+    "customerName": "pramo",
+    "customerEmail": "varun@gmail.com",
+    "date": "2025-11-02",
+    "status": "delivered",
+    "items": [
+      {
+        "id": "cart-1762062494659-0.9353879158234295",
+        "dressId": "m1",
+        "name": "Classic Formal Suit",
+        "price": 199.99,
+        "quantity": 1,
+        "size": "M",
+        "image": "https://images.unsplash.com/photo-1591047990632-ec3bbb6f1b94?w=500&h=600&fit=crop"
+      },
+      {
+        "id": "cart-1762062498652-0.7721663582117051",
+        "dressId": "m2",
+        "name": "Casual Cotton Shirt",
+        "price": 49.99,
+        "quantity": 1,
+        "size": "M",
+        "image": "https://images.unsplash.com/photo-1596362051224-ea400667974d?w=500&h=600&fit=crop"
+      }
+    ],
+    "itemCount": 2,
+    "total": 284.978,
+    "estimatedDelivery": "2025-11-08"
+  },
+  {
+    "id": "ORD-007",
+    "userId": "user-1761839964975",
+    "customerName": "pramo",
+    "customerEmail": "varun@gmail.com",
+    "date": "2025-11-03",
+    "status": "pending",
+    "items": [
+      {
+        "id": "cart-1762149285416-0.6873054728875112",
+        "dressId": "m1",
+        "name": "Classic Formal Suit",
+        "price": 199.99,
+        "quantity": 1,
+        "size": "L",
+        "image": "https://images.unsplash.com/photo-1591047990632-ec3bbb6f1b94?w=500&h=600&fit=crop"
+      }
+    ],
+    "itemCount": 1,
+    "total": 229.989,
+    "estimatedDelivery": "2025-11-09"
+  },
+  {
+    "id": "ORD-008",
+    "userId": "user-1761839964975",
+    "customerName": "pramo",
+    "customerEmail": "varun@gmail.com",
+    "date": "2025-11-24",
+    "status": "pending",
+    "items": [
+      {
+        "id": "cart-1763487588472-0.30403874734295866",
+        "dressId": "m3",
+        "name": "Linen Summer Shirt",
+        "price": 59.99,
+        "quantity": 2,
+        "size": "M",
+        "image": "https://images.pexels.com/photos/34761531/pexels-photo-34761531.jpeg?w=500&h=600&fit=crop"
+      }
+    ],
+    "itemCount": 1,
+    "total": 141.978,
+    "estimatedDelivery": "2025-11-30"
+  }
+]

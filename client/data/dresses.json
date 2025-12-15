@@ -1,0 +1,114 @@
+{
+  "dresses": [
+    {
+      "id": "m1",
+      "category": "men",
+      "name": "Classic Formal Suit",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1591047990632-ec3bbb6f1b94?w=500&h=600&fit=crop",
+      "description": "Elegant and timeless formal suit perfect for any occasion",
+      "color": "Navy Blue",
+      "size": ["S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "m2",
+      "category": "men",
+      "name": "Casual Cotton Shirt",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1596362051224-ea400667974d?w=500&h=600&fit=crop",
+      "description": "Comfortable everyday shirt in premium cotton",
+      "color": "White",
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "m3",
+      "category": "men",
+      "name": "Linen Summer Shirt",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1525887367769-e44ffd3aa3ea?w=500&h=600&fit=crop",
+      "description": "Light and breathable linen shirt for warm weather",
+      "color": "Beige",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "w1",
+      "category": "women",
+      "name": "Elegant Evening Dress",
+      "price": 249.99,
+      "image": "https://images.unsplash.com/photo-1595777707802-52066d39fbb0?w=500&h=600&fit=crop",
+      "description": "Stunning evening gown for special occasions",
+      "color": "Black",
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": "w2",
+      "category": "women",
+      "name": "Casual Summer Dress",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1612336307429-8a88e8d08dbb?w=500&h=600&fit=crop",
+      "description": "Breezy and comfortable dress perfect for summer outings",
+      "color": "Floral",
+      "size": ["XS", "S", "M", "L", "XL", "XXL"]
+    },
+    {
+      "id": "w3",
+      "category": "women",
+      "name": "Professional Blazer Dress",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1609282288468-2349b25c6ffe?w=500&h=600&fit=crop",
+      "description": "Modern and stylish dress for work or business meetings",
+      "color": "Burgundy",
+      "size": ["XS", "S", "M", "L", "XL"]
+    },
+    {
+      "id": "w4",
+      "category": "women",
+      "name": "Bohemian Maxi Dress",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=500&h=600&fit=crop",
+      "description": "Free-spirited boho style maxi dress with flowing silhouette",
+      "color": "Rust Orange",
+      "size": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "c1",
+      "category": "children",
+      "name": "Colorful Play Dress",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1503919545889-e7442adde1b2?w=500&h=600&fit=crop",
+      "description": "Fun and vibrant dress for active kids",
+      "color": "Rainbow",
+      "size": ["2", "4", "6", "8", "10"]
+    },
+    {
+      "id": "c2",
+      "category": "children",
+      "name": "Elegant Party Dress",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1580127915550-3173dd68854a?w=500&h=600&fit=crop",
+      "description": "Perfect for celebrations and special events",
+      "color": "Pink",
+      "size": ["2", "4", "6", "8", "10", "12"]
+    },
+    {
+      "id": "c3",
+      "category": "children",
+      "name": "School Uniform Dress",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1599255740fd-973b9c7fe66f?w=500&h=600&fit=crop",
+      "description": "Classic and comfortable school dress",
+      "color": "Navy Blue",
+      "size": ["2", "4", "6", "8", "10", "12", "14"]
+    },
+    {
+      "id": "c4",
+      "category": "children",
+      "name": "Denim Overall Dress",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1592878904546-fc59166e2e96?w=500&h=600&fit=crop",
+      "description": "Cool and casual denim dress for everyday wear",
+      "color": "Light Blue",
+      "size": ["3", "5", "7", "9"]
+    }
+  ]
+}
